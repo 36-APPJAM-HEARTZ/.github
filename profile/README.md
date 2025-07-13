@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/4571f8fd-8b93-44ce-b1d6-48fac7655bad" style="height: 1.5em; vertical-align: middle;"> MyBoo
+# <img src="https://github.com/user-attachments/assets/4571f8fd-8b93-44ce-b1d6-48fac7655bad" style="height: 1.5em; vertical-align: middle;"> Bye Boo
 
 ##  서비스 소개
 > 기간: 2025. 6. 14 ~ 
