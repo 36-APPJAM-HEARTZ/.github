@@ -62,7 +62,7 @@
     <td align="center"><a href="https://github.com/znayeonzn">주아연</td>
   </tr>
     <tr>
-    <td align="center">Android Lead</td>
+    <td align="center">Android Lead Developer</td>
     <td align="center">Android Developer</td>
     <td align="center">Android Developer</td>
   </tr>
@@ -82,7 +82,7 @@
     <td align="center"><a href="https://github.com/y-eonee">이나연</td>
   </tr>
     <tr>
-    <td align="center">iOS Lead</td>
+    <td align="center">iOS Lead Developer</td>
     <td align="center">iOS Developer</td>
     <td align="center">iOS Developer</td>
   </tr>
@@ -100,7 +100,7 @@
     <td align="center"><a href="https://github.com/jeong724">차현정</td>
   </tr>
     <tr>
-      <td align="center">Server Lead</td>
+      <td align="center">Server Lead Developer</td>
       <td align="center">Server Developer</td>
     </tr>
   </tr>
